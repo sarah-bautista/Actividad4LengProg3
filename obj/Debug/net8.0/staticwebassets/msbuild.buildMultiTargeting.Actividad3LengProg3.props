@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Actividad3LengProg3.props" />
+</Project>

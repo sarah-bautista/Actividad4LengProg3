@@ -1,0 +1,111 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model 			EstudianteViewModel
+
+@{
+    ViewData["Title"] = "Editar Estudiante";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Editar" method="post">
+    <div>
+        <label asp-for="NombreCompleto"></label>
+        <input asp-for="NombreCompleto" class="form-control" />
+        <span asp-validation-for="NombreCompleto" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="Matricula"></label>
+        <input asp-for="Matricula" class="form-control" readonly />
+        <span asp-validation-for="Matricula" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="Carrera"></label>
+        <select asp-for="Carrera" class="form-control">
+            <option value="">-- Selecciona carrera --</option>
+            <option>Ingeniería en Sistemas</option>
+            <option>Administración</option>
+            <option>Contaduría</option>
+            <option>Derecho</option>
+        </select>
+        <span asp-validation-for="Carrera" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="CorreoInstitucional"></label>
+        <input asp-for="CorreoInstitucional" class="form-control" />
+        <span asp-validation-for="CorreoInstitucional" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="Telefono"></label>
+        <input asp-for="Telefono" class="form-control" />
+        <span asp-validation-for="Telefono" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="FechaNacimiento"></label>
+        <input asp-for="FechaNacimiento" type="date" class="form-control" />
+        <span asp-validation-for="FechaNacimiento" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label>Género</label><br />
+        <input asp-for="Genero" type="radio" value="Masculino" /> Masculino
+        <input asp-for="Genero" type="radio" value="Femenino" /> Femenino
+        <input asp-for="Genero" type="radio" value="Otro" /> Otro
+        <span asp-validation-for="Genero" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="Turno"></label>
+        <select asp-for="Turno" class="form-control">
+            <option value="">-- Selecciona turno --</option>
+            <option>Mañana</option>
+            <option>Tarde</option>
+            <option>Noche</option>
+        </select>
+        <span asp-validation-for="Turno" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="TipoIngreso"></label>
+        <select asp-for="TipoIngreso" class="form-control">
+            <option value="">-- Selecciona tipo de ingreso --</option>
+            <option>Regular</option>
+            <option>Reingreso</option>
+            <option>Traslado</option>
+        </select>
+        <span asp-validation-for="TipoIngreso" class="text-danger"></span>
+    </div>
+
+    <div>
+        <input asp-for="EstaBecado" type="checkbox" id="estaBecado" />
+        <label asp-for="EstaBecado">¿Está becado?</label>
+    </div>
+
+    <div>
+        <label asp-for="PorcentajeBeca"></label>
+        <input asp-for="PorcentajeBeca" type="number" min="0" max="100" class="form-control" />
+        <span asp-validation-for="PorcentajeBeca" class="text-danger"></span>
+    </div>
+
+    <div>
+        <input type="hidden" name="AceptaTerminos" value="false" />
+        <input asp-for="AceptaTerminos" type="checkbox" />
+        <label asp-for="AceptaTerminos">Acepto términos y condiciones</label>
+        <span asp-validation-for="AceptaTerminos" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success mt-2">Guardar Cambios</button>
+    <a asp-action="Lista" class="btn btn-secondary mt-2">Cancelar</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,56 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<EstudianteViewModel>
+
+@{
+    ViewData["Title"] = "Lista de Estudiantes";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Nombre Completo</th>
+            <th>Matrícula</th>
+            <th>Carrera</th>
+            <th>Correo</th>
+            <th>Teléfono</th>
+            <th>Fecha de Nacimiento</th>
+            <th>Género</th>
+            <th>Turno</th>
+            <th>Tipo de Ingreso</th>
+            <th>Becado</th>
+            <th>% Beca</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var est in Model)
+        {
+            <tr>
+                <td>@est.NombreCompleto</td>
+                <td>@est.Matricula</td>
+                <td>@est.Carrera</td>
+                <td>@est.CorreoInstitucional</td>
+                <td>@est.Telefono</td>
+                <td>@est.FechaNacimiento.ToString("yyyy-MM-dd")</td>
+                <td>@est.Genero</td>
+                <td>@est.Turno</td>
+                <td>@est.TipoIngreso</td>
+                <td>@(est.EstaBecado ? "Sí" : "No")</td>
+                <td>@(est.PorcentajeBeca.HasValue ? est.PorcentajeBeca + "%" : "-")</td>
+                <td>
+                    <a asp-action="Editar" asp-route-matricula="@est.Matricula" class="btn btn-sm btn-warning">Editar</a>
+                    <a asp-action="Eliminar" asp-route-matricula="@est.Matricula" class="btn btn-sm btn-danger"
+                       onclick="return confirm('¿Seguro que deseas eliminar este estudiante?');">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Index" class="btn btn-primary">Registrar nuevo estudiante</a>

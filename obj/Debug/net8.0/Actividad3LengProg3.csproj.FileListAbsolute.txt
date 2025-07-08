@@ -1,0 +1,62 @@
+C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\bin\Debug\net8.0\appsettings.json
+C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\bin\Debug\net8.0\Actividad3LengProg3.staticwebassets.runtime.json
+C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\bin\Debug\net8.0\Actividad3LengProg3.exe
+C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\bin\Debug\net8.0\Actividad3LengProg3.deps.json
+C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\bin\Debug\net8.0\Actividad3LengProg3.runtimeconfig.json
+C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\bin\Debug\net8.0\Actividad3LengProg3.dll
+C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\bin\Debug\net8.0\Actividad3LengProg3.pdb
+C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\Actividad3LengProg3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\Actividad3LengProg3.AssemblyInfoInputs.cache
+C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\Actividad3LengProg3.AssemblyInfo.cs
+C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\Actividad3LengProg3.csproj.CoreCompileInputs.cache
+C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\Actividad3LengProg3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\Actividad3LengProg3.RazorAssemblyInfo.cache
+C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\Actividad3LengProg3.RazorAssemblyInfo.cs
+C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\staticwebassets\msbuild.Actividad3LengProg3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\staticwebassets\msbuild.build.Actividad3LengProg3.props
+C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Actividad3LengProg3.props
+C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Actividad3LengProg3.props
+C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\scopedcss\bundle\Actividad3LengProg3.styles.css
+C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\scopedcss\projectbundle\Actividad3LengProg3.bundle.scp.css
+C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\Actividad3LengProg3.dll
+C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\refint\Actividad3LengProg3.dll
+C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\Actividad3LengProg3.pdb
+C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\Actividad3LengProg3.genruntimeconfig.cache
+C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\ref\Actividad3LengProg3.dll
+C:\Users\DELL LATITUDE E7250\OneDrive\Desktop\Actividad de prog3\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\Actividad3LengProg3.sourcelink.json
+C:\Users\DELL LATITUDE E7250\OneDrive\Documentos\Tarea.prog\Actividad3LengProg3\Actividad3LengProg3\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DELL LATITUDE E7250\OneDrive\Documentos\Tarea.prog\Actividad3LengProg3\Actividad3LengProg3\bin\Debug\net8.0\appsettings.json
+C:\Users\DELL LATITUDE E7250\OneDrive\Documentos\Tarea.prog\Actividad3LengProg3\Actividad3LengProg3\bin\Debug\net8.0\Actividad3LengProg3.staticwebassets.runtime.json
+C:\Users\DELL LATITUDE E7250\OneDrive\Documentos\Tarea.prog\Actividad3LengProg3\Actividad3LengProg3\bin\Debug\net8.0\Actividad3LengProg3.exe
+C:\Users\DELL LATITUDE E7250\OneDrive\Documentos\Tarea.prog\Actividad3LengProg3\Actividad3LengProg3\bin\Debug\net8.0\Actividad3LengProg3.deps.json
+C:\Users\DELL LATITUDE E7250\OneDrive\Documentos\Tarea.prog\Actividad3LengProg3\Actividad3LengProg3\bin\Debug\net8.0\Actividad3LengProg3.runtimeconfig.json
+C:\Users\DELL LATITUDE E7250\OneDrive\Documentos\Tarea.prog\Actividad3LengProg3\Actividad3LengProg3\bin\Debug\net8.0\Actividad3LengProg3.dll
+C:\Users\DELL LATITUDE E7250\OneDrive\Documentos\Tarea.prog\Actividad3LengProg3\Actividad3LengProg3\bin\Debug\net8.0\Actividad3LengProg3.pdb
+C:\Users\DELL LATITUDE E7250\OneDrive\Documentos\Tarea.prog\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\Actividad3LengProg3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL LATITUDE E7250\OneDrive\Documentos\Tarea.prog\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\Actividad3LengProg3.AssemblyInfoInputs.cache
+C:\Users\DELL LATITUDE E7250\OneDrive\Documentos\Tarea.prog\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\Actividad3LengProg3.AssemblyInfo.cs
+C:\Users\DELL LATITUDE E7250\OneDrive\Documentos\Tarea.prog\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\Actividad3LengProg3.csproj.CoreCompileInputs.cache
+C:\Users\DELL LATITUDE E7250\OneDrive\Documentos\Tarea.prog\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\Actividad3LengProg3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL LATITUDE E7250\OneDrive\Documentos\Tarea.prog\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\Actividad3LengProg3.RazorAssemblyInfo.cache
+C:\Users\DELL LATITUDE E7250\OneDrive\Documentos\Tarea.prog\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\Actividad3LengProg3.RazorAssemblyInfo.cs
+C:\Users\DELL LATITUDE E7250\OneDrive\Documentos\Tarea.prog\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\Actividad3LengProg3.sourcelink.json
+C:\Users\DELL LATITUDE E7250\OneDrive\Documentos\Tarea.prog\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DELL LATITUDE E7250\OneDrive\Documentos\Tarea.prog\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DELL LATITUDE E7250\OneDrive\Documentos\Tarea.prog\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\staticwebassets\msbuild.Actividad3LengProg3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DELL LATITUDE E7250\OneDrive\Documentos\Tarea.prog\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\staticwebassets\msbuild.build.Actividad3LengProg3.props
+C:\Users\DELL LATITUDE E7250\OneDrive\Documentos\Tarea.prog\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Actividad3LengProg3.props
+C:\Users\DELL LATITUDE E7250\OneDrive\Documentos\Tarea.prog\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Actividad3LengProg3.props
+C:\Users\DELL LATITUDE E7250\OneDrive\Documentos\Tarea.prog\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\DELL LATITUDE E7250\OneDrive\Documentos\Tarea.prog\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL LATITUDE E7250\OneDrive\Documentos\Tarea.prog\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\scopedcss\bundle\Actividad3LengProg3.styles.css
+C:\Users\DELL LATITUDE E7250\OneDrive\Documentos\Tarea.prog\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\scopedcss\projectbundle\Actividad3LengProg3.bundle.scp.css
+C:\Users\DELL LATITUDE E7250\OneDrive\Documentos\Tarea.prog\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\Actividad3LengProg3.dll
+C:\Users\DELL LATITUDE E7250\OneDrive\Documentos\Tarea.prog\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\refint\Actividad3LengProg3.dll
+C:\Users\DELL LATITUDE E7250\OneDrive\Documentos\Tarea.prog\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\Actividad3LengProg3.pdb
+C:\Users\DELL LATITUDE E7250\OneDrive\Documentos\Tarea.prog\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\Actividad3LengProg3.genruntimeconfig.cache
+C:\Users\DELL LATITUDE E7250\OneDrive\Documentos\Tarea.prog\Actividad3LengProg3\Actividad3LengProg3\obj\Debug\net8.0\ref\Actividad3LengProg3.dll
